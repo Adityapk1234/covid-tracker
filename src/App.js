@@ -51,14 +51,14 @@ function App() {
 
   return (
     <div className="container">
-      {/* <Header />
+      <Header />
       <AddTask onAdd={addTask} />
       {tasks.length > 0 ? (
         <Tasks tasks={tasks} onDelete={deleteTask} onUpdate={updateTask} />
       ) : (
         "No task to show"
-      )} */}
-      <h1> Diuwebfiwebfiuwebf</h1>
+      )}
+
     </div>
   );
 }
